@@ -40,32 +40,8 @@ Landing page para estética automotiva com visual **dark luxury**, desenvolvidos
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/seu-usuario/autoelite.git
-cd 
+cd FuzarStudio
 ```
-
-### 2. Abra direto no navegador
-Não é necessário servidor — basta abrir o arquivo HTML:
-```bash
-# Mac
-open autoelite-site-completo.html
-
-# Linux
-xdg-open autoelite-site-completo.html
-
-# Windows
-start autoelite-site-completo.html
-```
-
----
-
-## 🌐 Deploy (publicação gratuita)
-
-### Vercel
-```bash
-npm install -g vercel
-vercel
-```
-
 ---
 
 ## 🛠️ Tecnologias
