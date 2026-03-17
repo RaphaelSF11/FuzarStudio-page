@@ -7,28 +7,16 @@ Landing page para estética automotiva com visual **dark luxury**, desenvolvidos
 ## 🎨 Design
 
 - **Estética:** Dark luxury com acentos em dourado `#C9A84C`
-- **Tipografia:** [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue) (títulos) + [Barlow](https://fonts.google.com/specimen/Barlow) (corpo)
 - **Responsivo:** Layout adaptado para mobile, tablet e desktop
 
 ---
 
 ## ✨ Funcionalidades
 
-### Página Completa
-- **Navbar** fixa com scroll reveal e menu hamburger no mobile
-- **Hero Carousel** com 3 slides, efeito Ken Burns, barra de progresso animada e suporte a swipe
-- **Seção de Serviços** com grid assimétrico, card em destaque e hover com linha dourada
-- **Antes & Depois** com slider de comparação arrastável (mouse e touch)
-- **Depoimentos** em carrossel com auto-play e navegação por dots
-- **CTA Final** com botão WhatsApp e link direto com mensagem pré-preenchida
-- **Footer** completo com newsletter, redes sociais e faixa de marcas
-- **Botão flutuante** do WhatsApp em todas as páginas
-
-### Landing Page
 - Hero estático com zoom suave e animação de entrada
 - Faixa de estatísticas
 - Grid de 6 serviços com hover interativo
-- Seção de diferenciais com imagem e moldura dourada
+- Seção de diferenciais com imagem e moldura vermelha
 - 3 depoimentos em grid fixo
 - CTA com parallax e informações de contato
 - Footer enxuto
@@ -40,7 +28,6 @@ Landing page para estética automotiva com visual **dark luxury**, desenvolvidos
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/seu-usuario/autoelite.git
-cd FuzarStudio
 ```
 ---
 
@@ -50,7 +37,7 @@ cd FuzarStudio
 - **CSS3** — variáveis, grid, flexbox, animações, `clip-path`, `backdrop-filter`
 - **JavaScript** vanilla — Intersection Observer, touch events, carrossel customizado
 - **Google Fonts** — Bebas Neue + Barlow
-- **Unsplash** — imagens de demonstração (substituir por fotos reais)
+- **Unsplash** — imagens de demonstração
 
 > Nenhum framework, nenhuma biblioteca, nenhuma dependência externa além das fontes.
 
