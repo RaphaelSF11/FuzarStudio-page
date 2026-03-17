@@ -1,4 +1,4 @@
-# FuzarStudio — Estética Automotiva Premium 🚗
+# FuzarStudio — Estética Automotiva 🏎️
 
 Landing page para estética automotiva com visual **dark luxury**, desenvolvidos em HTML, CSS e JavaScript puro — sem frameworks, sem dependências.
 
