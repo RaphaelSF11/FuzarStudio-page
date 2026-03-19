@@ -27,7 +27,7 @@ Landing page para estética automotiva com visual **dark luxury**, desenvolvidos
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/autoelite.git
+git clone https://github.com/seu-usuario/FuzarStudio-page
 ```
 ---
 
