@@ -19,6 +19,7 @@
 
     html {
         scroll-behavior: smooth;
+        
     }
 
     body {
@@ -114,10 +115,20 @@
         border-bottom: 1px solid var(--border);
     }
     .nav-logo-f1{
-        width: 48px;
+        width: 50px;  
+    }
+    
+    .nav_logo{
+        display: flex;
+        align-items: center;
+        gap: 10px;
     }
 
-    .logo {
+    .nav-logo{
+       cursor: pointer;
+    }
+
+    .logo_text {
         font-family: 'Bebas Neue', sans-serif;
         font-size: 1.6rem;
         letter-spacing: .14em;
@@ -126,7 +137,7 @@
 
     }
 
-    .logo span {
+    .logo_text span {
         color: var(--red);
     }
 
@@ -244,6 +255,7 @@
         line-height: .90;
         letter-spacing: .03em;
         text-transform: uppercase;
+        font-size: 103px;
     }
 
     .hero h1 em {
