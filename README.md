@@ -6,7 +6,7 @@ Landing page para estética automotiva com visual **dark luxury**, desenvolvidos
 
 ## 🎨 Design
 
-- **Estética:** Dark luxury com acentos em dourado `#C9A84C`
+- **Estética:** Dark luxury com acentos em vermelho `#ac1f23`
 - **Responsivo:** Layout adaptado para mobile, tablet e desktop
 
 ---
