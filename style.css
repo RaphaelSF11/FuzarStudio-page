@@ -29,7 +29,6 @@
         overflow-x: hidden;
     }
 
-    /* ── SHARED ── */
     .eyebrow {
         display: inline-flex;
         align-items: center;
@@ -189,7 +188,7 @@
         align-items: center;
         background-image:
             linear-gradient(120deg, rgba(0, 0, 0, .82) 0%, rgba(0, 0, 0, .38) 55%, rgba(0, 0, 0, .6) 100%),
-            url('https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1800&q=80');
+            url(/assets/img/img_principal_fundo_esquerda_otimizada.jpg);
         background-size: cover;
         background-position: center;
         overflow: hidden;
@@ -255,7 +254,9 @@
         line-height: .90;
         letter-spacing: .03em;
         text-transform: uppercase;
-        font-size: 103px;
+        font-size: 93px;
+        max-width: 500px;
+
     }
 
     .hero h1 em {
@@ -830,7 +831,7 @@
         overflow: hidden;
         background-image:
             linear-gradient(rgba(10, 10, 10, .88), rgba(10, 10, 10, .88)),
-            url('https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=1800&q=80');
+            url(/assets/img/Clio_fundo_paralax.jpg);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -1255,6 +1256,11 @@
         .cta-final {
             padding-left: 24px;
             padding-right: 24px;
+        }
+        .hero{
+            background-image:
+            linear-gradient(120deg, rgba(0, 0, 0, 0.918) 0%, rgba(0, 0, 0, 0.863) 55%, rgba(0, 0, 0, .6) 100%),
+            url(/assets/img/img_principal_fundo_esquerda_otimizada.jpg);
         }
 
         .results {
