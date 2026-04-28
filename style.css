@@ -1249,6 +1249,9 @@
         .nav-right a {
             display: none;
         }
+        .nav-btn {
+                display: none
+        }
 
         .hero-content,
         .services,
@@ -1261,6 +1264,9 @@
             background-image:
             linear-gradient(120deg, rgba(0, 0, 0, 0.918) 0%, rgba(0, 0, 0, 0.863) 55%, rgba(0, 0, 0, .6) 100%),
             url(/assets/img/img_principal_fundo_esquerda_otimizada.jpg);
+        }
+        .hero h1{
+            font-size: clamp(5rem, 9vw, 8rem);
         }
 
         .results {
