@@ -1,6 +1,6 @@
 # FuzarStudio — Estética Automotiva 🏎️
 
-Landing page para estética automotiva com visual **dark luxury**, desenvolvidos em HTML, CSS e JavaScript puro — sem frameworks, sem dependências.
+Página web para estética automotiva com visual **dark luxury**, desenvolvidos em HTML, CSS e JavaScript puro — sem frameworks, sem dependências.
 
 <img width="1342" height="610" alt="Image" src="https://github.com/user-attachments/assets/85b1d358-d241-4a42-ad08-8dcbd927197c" />
 
